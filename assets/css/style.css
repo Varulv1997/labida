@@ -73,13 +73,13 @@ button {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #333333;
+  color: #2a2731;
 }
 
 h3 {
   font-size: 22px;
   font-family: "Poppins", sans-serif;
-  color: #0f2137;
+  color: #2a2731;
 }
 
 .pt-100 {
@@ -136,7 +136,7 @@ h3 {
 
 .section-title span {
   font-size: 16px;
-  color: #886a03;
+  color: #faae8a;
   display: inline-block;
   margin-bottom: 10px;
   font-weight: 600;
@@ -483,8 +483,8 @@ h3 {
   line-height: 50px;
   -webkit-transition: .5s;
   transition: .5s;
-  -webkit-box-shadow: 7px 5px 30px rgba(72, 73, 121, 0.15);
-          box-shadow: 7px 5px 30px rgba(72, 73, 121, 0.15);
+  -webkit-box-shadow: 7px 5px 30px #2a2731;
+          box-shadow: 7px 5px 30px #2a2731;
 }
 
 .right-modal .modal .modal-header button span:hover {
@@ -581,7 +581,7 @@ h3 {
 }
 
 .main-banner .banner-text .theme-button .video-btn {
-  color: #333333;
+  color: #2a2731;
   font-weight: 500;
   top: 5px;
   position: relative;
@@ -608,8 +608,8 @@ h3 {
 
 .main-banner .banner-text .theme-button .video-btn:hover i {
   border-radius: 50px;
-  -webkit-box-shadow: 0px 2px 20px 0px rgba(12, 0, 46, 0.15);
-          box-shadow: 0px 2px 20px 0px rgba(12, 0, 46, 0.15);
+  -webkit-box-shadow: 0px 2px 20px 0px #2a2731;
+          box-shadow: 0px 2px 20px 0px #2a2731;
 }
 
 .main-banner .banner-image {
@@ -663,7 +663,7 @@ h3 {
   position: absolute;
   width: 100%;
   height: 100%;
-  border: 3px solid rgba(255, 101, 80, 0.5);
+  border: 3px solid #e41134;
   -webkit-animation: pulse 2s ease-out infinite;
           animation: pulse 2s ease-out infinite;
   left: 0;
@@ -688,8 +688,8 @@ h3 {
 .theory-section .theory-area {
   position: relative;
   background: #FFFFFF;
-  -webkit-box-shadow: 0px 2px 20px 0px rgba(12, 0, 46, 0.04);
-          box-shadow: 0px 2px 20px 0px rgba(12, 0, 46, 0.04);
+  -webkit-box-shadow: 0px 2px 20px 0px #2a2731;
+          box-shadow: 0px 2px 20px 0px #2a2731;
 }
 
 .theory-section .theory-area .theory-text {
@@ -705,7 +705,7 @@ h3 {
 }
 
 .theory-section .theory-area .theory-text p {
-  color: #333333;
+  color: #2a2731;
   margin-bottom: 30px;
 }
 
@@ -715,13 +715,13 @@ h3 {
 
 .theory-section .theory-area .theory-text .signature-box p {
   margin-bottom: 0;
-  color: #333333;
+  color: #2a2731;
   font-weight: 500;
 }
 
 .theory-section .theory-area .theory-text .signature-box span {
   font-size: 14px;
-  color: #333333;
+  color: #2a2731;
 }
 
 .theory-section .theory-area .theory-img {
@@ -780,16 +780,16 @@ h3 {
 }
 
 .about-section .about-text .about-us i.icon-one::after {
-  background: rgba(132, 186, 63, 0.65);
+  background: #42afaf;
 }
 
 .about-section .about-text .about-us i.icon-two::after {
-  background: rgba(255, 124, 0, 0.64);
+  background: #faae8a;
   border-radius: 50px;
 }
 
 .about-section .about-text .about-us i.icon-three::after {
-  background: rgba(255, 199, 10, 0.66);
+  background: #faae8a;
   -webkit-transform: rotate(30deg);
           transform: rotate(30deg);
 }
@@ -810,8 +810,8 @@ h3 {
 /* Feature CSS Start */
 .features-section .features-card {
   text-align: center;
-  -webkit-box-shadow: 0px 2px 20px 0px rgba(12, 0, 46, 0.1);
-          box-shadow: 0px 2px 20px 0px rgba(12, 0, 46, 0.1);
+  -webkit-box-shadow: 0px 2px 20px 0px #2a2731;
+          box-shadow: 0px 2px 20px 0px #2a2731;
   padding: 30px 20px;
   margin-bottom: 30px;
   -webkit-transition: .5s;
@@ -823,8 +823,8 @@ h3 {
 
 .features-section .features-card:hover {
   margin-top: -10px;
-  -webkit-box-shadow: 0px 2px 20px 0px rgba(12, 0, 46, 0.04);
-          box-shadow: 0px 2px 20px 0px rgba(12, 0, 46, 0.04);
+  -webkit-box-shadow: 0px 2px 20px 0px #2a2731;
+          box-shadow: 0px 2px 20px 0px #2a2731;
 }
 
 .features-section .features-card:hover p, .features-section .features-card:hover h3 {
@@ -860,57 +860,57 @@ h3 {
 }
 
 .features-section .features-card.feature-one i {
-  color: #18a87c;
-  background: #daf4ec;
+  color: #42afaf;
+  background: #faae8a;
 }
 
 .features-section .features-card.feature-one:hover {
-  background: #88a32a;
+  background: #42afaf;
 }
 
 .features-section .features-card.feature-two i {
-  color: #f0573c;
+  color: #e41134;
   background: #ffd7ca;
 }
 
 .features-section .features-card.feature-two:hover {
-  background: #f0573c;
+  background: #e41134;
 }
 
 .features-section .features-card.feature-three i {
-  color: #3454d1;
+  color: #2a2731;
   background: #e1e6f8;
 }
 
 .features-section .features-card.feature-three:hover {
-  background: #3454d1;
+  background: #2a2731;
 }
 
 .features-section .features-card.feature-four i {
-  color: #ffc70b;
+  color: #faae8a;
   background: #fff9e6;
 }
 
 .features-section .features-card.feature-four:hover {
-  background: #d1ad34;
+  background: #faae8a;
 }
 
 .features-section .features-card.feature-five i {
-  color: #f26d56;
+  color: #e41134;
   background: #ede5fb;
 }
 
 .features-section .features-card.feature-five:hover {
-  background: #f26d56;
+  background: #e41134;
 }
 
 .features-section .features-card.feature-six i {
-  color: #88a32a;
-  background: #eff2e2;
+  color: #42afaf;
+  background: #faae8a;
 }
 
 .features-section .features-card.feature-six:hover {
-  background: #88a32a;
+  background: #42afaf;
 }
 
 /* Feature CSS End */
@@ -1010,8 +1010,8 @@ h3 {
 .team-section .team-card .team-text {
   background: #FFFFFF;
   padding: 25px;
-  -webkit-box-shadow: 0 2px 10px rgba(12, 0, 46, 0.15);
-          box-shadow: 0 2px 10px rgba(12, 0, 46, 0.15);
+  -webkit-box-shadow: 0 2px 10px #2a2731;
+          box-shadow: 0 2px 10px #2a2731;
   position: absolute;
   text-align: center;
   z-index: 1;
@@ -1046,7 +1046,7 @@ h3 {
 
 .team-section .team-card .team-text .team-social ul li i {
   background: #FFFFFF;
-  color: #333333;
+  color: #2a2731;
   width: 25px;
   height: 25px;
   display: inline-block;
@@ -1303,8 +1303,8 @@ h3 {
 /* Progress CSS End */
 /* Blog CSS Start */
 .blog-section .blog-card {
-  -webkit-box-shadow: 0px 2px 25px 0px rgba(12, 0, 46, 0.1);
-          box-shadow: 0px 2px 25px 0px rgba(12, 0, 46, 0.1);
+  -webkit-box-shadow: 0px 2px 25px 0px #2a2731;
+          box-shadow: 0px 2px 25px 0px #2a2731;
   margin-bottom: 30px;
   background: #FFFFFF;
 }
@@ -1415,8 +1415,8 @@ h3 {
 }
 
 .contact-section .contact-form {
-  -webkit-box-shadow: 0px 2px 25px 0px rgba(12, 0, 46, 0.1);
-          box-shadow: 0px 2px 25px 0px rgba(12, 0, 46, 0.1);
+  -webkit-box-shadow: 0px 2px 25px 0px #2a2731;
+          box-shadow: 0px 2px 25px 0px #2a2731;
   padding: 70px;
   background: #FFFFFF;
   position: relative;
@@ -1652,7 +1652,7 @@ h3 {
 .footer-area .footer-widget h3::before {
   position: absolute;
   content: '';
-  background: #626a5b;
+  background: #2a2731;
   width: 100%;
   height: 2px;
   bottom: -2px;
@@ -1709,7 +1709,7 @@ h3 {
 }
 
 .footer-area .copyright-area {
-  border-top: 1px solid #4a6871;
+  border-top: 1px solid #2a2731;
   padding: 20px 0;
   margin-top: 95px;
 }
@@ -1770,7 +1770,7 @@ h3 {
 /** -------------- Home Page Two CSS Start --------------**/
 /* Header CSS Start */
 .header-style-two {
-  background: #071d24;
+  background: #2a2731;
 }
 
 .header-style-two .header-left-text ul li {
@@ -1785,7 +1785,7 @@ h3 {
 /* Navbar CSS Start */
 .navbar-style-two .main-nav {
   background: #2a2731;
-  border-bottom: 2px solid #26453c;
+  border-bottom: 2px solid #2a2731;
 }
 
 .navbar-style-two .main-nav .navbar .navbar-nav .nav-item .nav-link {
@@ -1874,7 +1874,7 @@ h3 {
 }
 
 .about-style-two .about-text .section-title span {
-  color: #886a03;
+  color: #faae8a;
 }
 
 .about-style-two .about-text .section-title h2 {
@@ -1932,7 +1932,7 @@ h3 {
 .video-style-two .video-text a i::after {
   position: absolute;
   content: '';
-  background: rgba(255, 101, 80, 0.5);
+  background: #e41134;
   width: 100px;
   height: 100px;
   top: -10px;
@@ -2172,8 +2172,8 @@ h3 {
 }
 
 .theory-style-two .theory-area {
-  -webkit-box-shadow: 0px 2px 20px 0px rgba(12, 0, 46, 0.14);
-          box-shadow: 0px 2px 20px 0px rgba(12, 0, 46, 0.14);
+  -webkit-box-shadow: 0px 2px 20px 0px #2a2731;
+          box-shadow: 0px 2px 20px 0px #2a2731;
 }
 
 .theory-style-two .theory-area .theory-img {
@@ -2430,7 +2430,7 @@ h3 {
 .blog-details-area .blog-description .blog-comment h3 {
   font-size: 22px;
   font-weight: 600;
-  color: #333333;
+  color: #2a2731;
   margin-bottom: 25px;
 }
 
@@ -2458,25 +2458,25 @@ h3 {
 
 .blog-details-area .blog-description .blog-comment ::-webkit-input-placeholder {
   font-size: 14px;
-  color: #a07373;
+  color: #faae8a;
   font-family: "Poppins", sans-serif;
 }
 
 .blog-details-area .blog-description .blog-comment :-ms-input-placeholder {
   font-size: 14px;
-  color: #a07373;
+  color: #faae8a;
   font-family: "Poppins", sans-serif;
 }
 
 .blog-details-area .blog-description .blog-comment ::-ms-input-placeholder {
   font-size: 14px;
-  color: #a07373;
+  color: #faae8a;
   font-family: "Poppins", sans-serif;
 }
 
 .blog-details-area .blog-description .blog-comment ::placeholder {
   font-size: 14px;
-  color: #a07373;
+  color: #faae8a;
   font-family: "Poppins", sans-serif;
 }
 
@@ -2523,25 +2523,25 @@ h3 {
 .blog-details-area .blog-search form ::-webkit-input-placeholder {
   font-size: 16px;
   font-family: "Poppins", sans-serif;
-  color: #333333;
+  color: #2a2731;
 }
 
 .blog-details-area .blog-search form :-ms-input-placeholder {
   font-size: 16px;
   font-family: "Poppins", sans-serif;
-  color: #333333;
+  color: #2a2731;
 }
 
 .blog-details-area .blog-search form ::-ms-input-placeholder {
   font-size: 16px;
   font-family: "Poppins", sans-serif;
-  color: #333333;
+  color: #2a2731;
 }
 
 .blog-details-area .blog-search form ::placeholder {
   font-size: 16px;
   font-family: "Poppins", sans-serif;
-  color: #333333;
+  color: #2a2731;
 }
 
 .blog-details-area .blog-search form button {
@@ -2558,7 +2558,7 @@ h3 {
 }
 
 .blog-details-area .blog-search form button:hover {
-  background: #333333;
+  background: #2a2731;
 }
 
 .blog-details-area .blog-search form button i {
@@ -2598,7 +2598,7 @@ h3 {
 }
 
 .blog-details-area .recent-blog .recent-post h3 a {
-  color: #333333;
+  color: #2a2731;
   font-size: 14px;
   padding-left: 110px;
   margin-bottom: 10px;
@@ -2664,7 +2664,7 @@ h3 {
   border-bottom: 1px dashed #dddddd;
   font-size: 18px;
   font-weight: 600;
-  color: #333333;
+  color: #2a2731;
   margin-bottom: 5px;
 }
 
@@ -2712,13 +2712,13 @@ h3 {
 
 .blog-details-area .tags a {
   background: #e5e5e5;
-  color: #333333;
+  color: #2a2731;
   padding: 8px 16px;
   margin-bottom: 15px;
   display: inline-block;
   font-family: "Poppins", sans-serif;
   border-radius: 10px;
-  border: 1px dashed #333333;
+  border: 1px dashed #2a2731;
   width: 100px;
   text-align: center;
 }
@@ -2908,8 +2908,8 @@ h3 {
 
 .service-style-three .service-card {
   text-align: center;
-  -webkit-box-shadow: 0px 2px 20px 0px rgba(12, 0, 46, 0.1);
-          box-shadow: 0px 2px 20px 0px rgba(12, 0, 46, 0.1);
+  -webkit-box-shadow: 0px 2px 20px 0px #2a2731;
+          box-shadow: 0px 2px 20px 0px #2a2731;
   padding: 30px 20px;
   margin-bottom: 30px;
   -webkit-transition: .5s;
@@ -2953,7 +2953,7 @@ h3 {
 .service-style-three .service-card p {
   margin-bottom: 0;
   font-size: 16px;
-  color: #0f2137;
+  color: #2a2731;
 }
 
 /**-------------- Serice Page CSS End --------------**/
@@ -3259,25 +3259,25 @@ h3 {
 .service-style-four .blog-search form ::-webkit-input-placeholder {
   font-size: 16px;
   font-family: "Poppins", sans-serif;
-  color: #333333;
+  color: #2a2731;
 }
 
 .service-style-four .blog-search form :-ms-input-placeholder {
   font-size: 16px;
   font-family: "Poppins", sans-serif;
-  color: #333333;
+  color: #2a2731;
 }
 
 .service-style-four .blog-search form ::-ms-input-placeholder {
   font-size: 16px;
   font-family: "Poppins", sans-serif;
-  color: #333333;
+  color: #2a2731;
 }
 
 .service-style-four .blog-search form ::placeholder {
   font-size: 16px;
   font-family: "Poppins", sans-serif;
-  color: #333333;
+  color: #2a2731;
 }
 
 .service-style-four .blog-search form button {
@@ -3294,7 +3294,7 @@ h3 {
 }
 
 .service-style-four .blog-search form button:hover {
-  background: #333333;
+  background: #2a2731;
 }
 
 .service-style-four .blog-search form button i {
@@ -3331,7 +3331,7 @@ h3 {
   border-bottom: 1px dashed #dddddd;
   font-size: 18px;
   font-weight: 600;
-  color: #333333;
+  color: #2a2731;
   margin-bottom: 5px;
 }
 
@@ -3408,7 +3408,7 @@ h3 {
   margin-bottom: 50px;
   font-size: 32px;
   font-weight: 600;
-  border-bottom: 2px dashed #886a03;
+  border-bottom: 2px dashed #faae8a;
 }
 
 .faq-area .topic {
@@ -3418,7 +3418,7 @@ h3 {
 }
 
 .faq-area .topic h3 {
-  color: #333333;
+  color: #2a2731;
 }
 
 .faq-area .open {
@@ -3444,7 +3444,7 @@ h3 {
   padding-bottom: 20px;
   font-size: 18px;
   font-weight: 500;
-  color: #526ee4;
+  color: #2a2731;
   padding-left: 40px;
 }
 
@@ -3546,7 +3546,7 @@ h3 {
 .privacy-section .privacy-text h3 {
   font-size: 20px;
   font-family: "Poppins", sans-serif;
-  color: #0f2137;
+  color: #2a2731;
   text-transform: capitalize;
   margin-bottom: 10px;
   display: inline-block;
