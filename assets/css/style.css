@@ -663,7 +663,7 @@ h3 {
   position: absolute;
   width: 100%;
   height: 100%;
-  border: 3px solid #e41134;
+  border: 3px solid #FF7309;
   -webkit-animation: pulse 2s ease-out infinite;
           animation: pulse 2s ease-out infinite;
   left: 0;
@@ -780,7 +780,7 @@ h3 {
 }
 
 .about-section .about-text .about-us i.icon-one::after {
-  background: #42afaf;
+  background: #FF7309;
 }
 
 .about-section .about-text .about-us i.icon-two::after {
@@ -860,21 +860,21 @@ h3 {
 }
 
 .features-section .features-card.feature-one i {
-  color: #42afaf;
+  color: #FF7309;
   background: #faae8a;
 }
 
 .features-section .features-card.feature-one:hover {
-  background: #42afaf;
+  background: #FF7309;
 }
 
 .features-section .features-card.feature-two i {
-  color: #e41134;
+  color: #FF7309;
   background: #ffd7ca;
 }
 
 .features-section .features-card.feature-two:hover {
-  background: #e41134;
+  background: #FF7309;
 }
 
 .features-section .features-card.feature-three i {
@@ -896,21 +896,21 @@ h3 {
 }
 
 .features-section .features-card.feature-five i {
-  color: #e41134;
+  color: #FF7309;
   background: #ede5fb;
 }
 
 .features-section .features-card.feature-five:hover {
-  background: #e41134;
+  background: #FF7309;
 }
 
 .features-section .features-card.feature-six i {
-  color: #42afaf;
+  color: #FF7309;
   background: #faae8a;
 }
 
 .features-section .features-card.feature-six:hover {
-  background: #42afaf;
+  background: #FF7309;
 }
 
 /* Feature CSS End */
@@ -1932,7 +1932,7 @@ h3 {
 .video-style-two .video-text a i::after {
   position: absolute;
   content: '';
-  background: #e41134;
+  background: #FF7309;
   width: 100px;
   height: 100px;
   top: -10px;

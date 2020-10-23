@@ -139,7 +139,7 @@ a.meanmenu-reveal {
     display: none;
 }
 .mobile-nav.mean-container .mean-nav ul li a.active {
-    color: #e41134;
+    color: #FF7309;
 }
 .main-nav {
     background: #000;
@@ -184,10 +184,10 @@ a.meanmenu-reveal {
 .main-nav nav .navbar-nav .nav-item a:hover, 
 .main-nav nav .navbar-nav .nav-item a:focus, 
 .main-nav nav .navbar-nav .nav-item a.active {
-    color: #e41134;
+    color: #FF7309;
 }
 .main-nav nav .navbar-nav .nav-item:hover a {
-    color: #e41134;
+    color: #FF7309;
 }
 .main-nav nav .navbar-nav .nav-item .dropdown-menu {
     -webkit-box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.05);
@@ -223,7 +223,7 @@ a.meanmenu-reveal {
 .main-nav nav .navbar-nav .nav-item .dropdown-menu li a:hover, 
 .main-nav nav .navbar-nav .nav-item .dropdown-menu li a:focus, 
 .main-nav nav .navbar-nav .nav-item .dropdown-menu li a.active {
-    color: #e41134;
+    color: #FF7309;
 }
 .main-nav nav .navbar-nav .nav-item .dropdown-menu li .dropdown-menu {
     position: absolute;
@@ -254,10 +254,10 @@ a.meanmenu-reveal {
 .main-nav nav .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a:hover, 
 .main-nav nav .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a:focus, 
 .main-nav nav .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a.active {
-    color: #e41134;
+    color: #FF7309;
 }
 .main-nav nav .navbar-nav .nav-item .dropdown-menu li:hover a {
-    color: #e41134;
+    color: #FF7309;
 }
 .main-nav nav .navbar-nav .nav-item:hover ul {
     opacity: 1;
